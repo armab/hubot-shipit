@@ -18,6 +18,7 @@
 
 squirrels = [
   "http://shipitsquirrel.github.io/images/ship%20it%20squirrel.png",
+  "http://shipitsquirrel.github.io/images/squirrel.png",
   "http://28.media.tumblr.com/tumblr_lybw63nzPp1r5bvcto1_500.jpg",
   "http://i.imgur.com/DPVM1.png",
   "http://d2f8dzk2mhcqts.cloudfront.net/0772_PEW_Roundup/09_Squirrel.jpg",
@@ -27,6 +28,14 @@ squirrels = [
   "http://1.bp.blogspot.com/_v0neUj-VDa4/TFBEbqFQcII/AAAAAAAAFBU/E8kPNmF1h1E/s640/squirrelbacca-thumb.jpg",
   "https://dl.dropboxusercontent.com/u/602885/github/soldier-squirrel.jpg",
   "https://dl.dropboxusercontent.com/u/602885/github/squirrelmobster.jpeg",
+  "http://24.media.tumblr.com/tumblr_lz4u84XJPc1qfu5wgo1_1280.jpg",
+  "http://i.imgur.com/0CtP54A.png",
+  "http://i.imgur.com/rfvkwhb.jpg",
+  "http://i.imgur.com/vN08cO9.png",
+  "https://cdn.meme.am/instances/500x/69257601.jpg",
+  "http://i.imgur.com/yINiFE5.jpg",
+  "http://i.imgur.com/taEliv1.png",
+  "https://camo.githubusercontent.com/dfd5b1e5bd069d89d70ef0416a9fe41f0c7a57d4/687474703a2f2f692e696d6775722e636f6d2f73374d52672e6a7067",
 ]
 
 module.exports = (robot) ->
