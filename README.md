@@ -22,7 +22,7 @@ Then add **hubot-shipit** to your `external-scripts.json`:
 
 ```
 user1>> hubot ship it
-hubot>> https://img.skitch.com/20111026-r2wsngtu4jftwxmsytdke6arwd.png
+hubot>> http://shipitsquirrel.github.io/images/ship%20it%20squirrel.png
 ```
 
 ## NPM Module
